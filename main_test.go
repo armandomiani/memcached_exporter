@@ -163,7 +163,6 @@ func TestParseStatsSettings(t *testing.T) {
 				"lru_crawler":           "yes",
 				"lru_crawler_sleep":     "100",
 				"lru_crawler_tocrawl":   "0",
-				"lru_maintainer_thread": "no",
 				"hot_lru_pct":           "20",
 				"warm_lru_pct":          "40",
 				"hot_max_factor":        "0.20",
